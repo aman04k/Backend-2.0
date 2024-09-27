@@ -1,0 +1,4 @@
+venKNQK2Vfpbi1Yc
+aman
+
+mongodb+srv://aman:venKNQK2Vfpbi1Yc@cluster0.wlul6.mongodb.net/
